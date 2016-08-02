@@ -1,5 +1,4 @@
 # Wind-Turbine-Build
-Repository containing files pertinent to a scale wind turbine build. 
-
-
-This work is to be completed as a Masters Thesis through the University of New Hampshire. 
+ 
+This repository is a compilation of work that is part of my Masters Thesis through the University of New Hampshire. In this thesis 
+project a ~1 meter scaled, fully instrumented and controlled wind turbine model. 
